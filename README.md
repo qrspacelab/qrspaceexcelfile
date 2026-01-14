@@ -1,1 +1,2 @@
-# Plantillas de excel para QR School
+# Plantillas de excel para QRSpace
+[www.qrspace.cam](https://qrspace.cam/)
